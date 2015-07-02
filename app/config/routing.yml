@@ -1,0 +1,8 @@
+meldon_bot_fa:
+    resource: "@MeldonBotFABundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation
